@@ -1,0 +1,14 @@
+com/learnDocker/Startup$ProductionVersion.class
+com/learnDocker/controllers/Position.class
+com/learnDocker/CloudConfiguration.class
+com/learnDocker/Startup$LocalDevelopmentVersion.class
+com/learnDocker/data/VehicleRepository.class
+com/learnDocker/domain/Vehicle.class
+com/learnDocker/TomcatWARApplication.class
+com/learnDocker/FleetmanApplication.class
+com/learnDocker/Startup.class
+com/learnDocker/services/PositionTrackingExternalService.class
+com/learnDocker/WebSocketConfig.class
+com/learnDocker/controllers/VehicleController.class
+com/learnDocker/services/RemotePositionMicroserviceCalls.class
+com/learnDocker/services/RemoteMicroserviceStubImpl.class
